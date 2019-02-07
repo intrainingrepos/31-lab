@@ -5,8 +5,6 @@
 ## Assignment 1: Connect to Store
 
 ### Links and Resources
-
-### Links and Resources
 * [repo](https://codesandbox.io/s/qvjymqkxvj)
 * [site](https://qvjymqkxvj.codesandbox.io/)
 
@@ -27,7 +25,7 @@
 * `src/store/middleware/thunk.js` the store dispatch and state
 
 #### UML
-![]()
+![whiteboard image to connect to store ](./assets/store.js)
 
 ## Assignment 2: Create new reducer
 
@@ -53,4 +51,4 @@
 * `src/store/middleware/reporter.js` the dispatch and state to the app and error catch
 
 #### UML
-![]()
+![whiteboard image to create a new reducer](./assets/reducer.js)
