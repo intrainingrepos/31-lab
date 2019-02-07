@@ -25,7 +25,7 @@
 * `src/store/middleware/thunk.js` the store dispatch and state
 
 #### UML
-![whiteboard image to connect to store ](./assets/store.js)
+![whiteboard image to connect to store ](./assets/store.jpg)
 
 ## Assignment 2: Create new reducer
 
@@ -51,4 +51,4 @@
 * `src/store/middleware/reporter.js` the dispatch and state to the app and error catch
 
 #### UML
-![whiteboard image to create a new reducer](./assets/reducer.js)
+![whiteboard image to create a new reducer](./assets/reducer.jpg)
